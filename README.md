@@ -2,7 +2,7 @@
 
 > Object-oriented programming (OOP) is a programming paradigm based on the concept of <span style="color:orange">**"objects"**</span>, which are instances of <span style="color:orange">**classes**</span>. These objects are used to model real-world <span style="color:orange">**entities**</span>, encapsulating both data (attributes) and behavior (methods) that operate on the data. OOP promotes principles such as <span style="color:orange">encapsulation, inheritance, polymorphism, and abstraction</span> to create modular, reusable, and maintainable code.
 
-![Alt Text](images/classdiagram.png).
+![Alt Text](images/classdiagram.png). 
 
 #### 1. Abstraction:
 > Abstraction involves defining complex structures by their essential characteristics while hiding the detailed implementation. This allows focusing on what an object does rather than how it does it.
