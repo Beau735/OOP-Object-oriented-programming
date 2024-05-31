@@ -4,7 +4,7 @@
 
 **Classdiagram:**
 
-![Alt Text](images/classdiagram.png). 
+![Alt Text](images/class_diagram.png). 
 
 #### 1. Abstraction:
 > Abstraction involves defining complex structures by their essential characteristics while hiding the detailed implementation. This allows focusing on what an object does rather than how it does it.
